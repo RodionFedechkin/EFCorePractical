@@ -1,0 +1,12 @@
+C:\Code\EFCore\InventoryModels\bin\Debug\net6.0\InventoryModels.deps.json
+C:\Code\EFCore\InventoryModels\bin\Debug\net6.0\InventoryModels.dll
+C:\Code\EFCore\InventoryModels\bin\Debug\net6.0\InventoryModels.pdb
+C:\Code\EFCore\InventoryModels\obj\Debug\net6.0\InventoryModels.csproj.AssemblyReference.cache
+C:\Code\EFCore\InventoryModels\obj\Debug\net6.0\InventoryModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\EFCore\InventoryModels\obj\Debug\net6.0\InventoryModels.AssemblyInfoInputs.cache
+C:\Code\EFCore\InventoryModels\obj\Debug\net6.0\InventoryModels.AssemblyInfo.cs
+C:\Code\EFCore\InventoryModels\obj\Debug\net6.0\InventoryModels.csproj.CoreCompileInputs.cache
+C:\Code\EFCore\InventoryModels\obj\Debug\net6.0\InventoryModels.dll
+C:\Code\EFCore\InventoryModels\obj\Debug\net6.0\refint\InventoryModels.dll
+C:\Code\EFCore\InventoryModels\obj\Debug\net6.0\InventoryModels.pdb
+C:\Code\EFCore\InventoryModels\obj\Debug\net6.0\ref\InventoryModels.dll

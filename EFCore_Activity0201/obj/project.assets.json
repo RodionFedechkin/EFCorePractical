@@ -2228,9 +2228,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\EFCore\\EFCore_Activity0201\\EFCore_Activity0201.csproj",
-      "projectName": "EFCore_Activity0201",
-      "projectPath": "C:\\Code\\EFCore\\EFCore_Activity0201\\EFCore_Activity0201.csproj",
+      "projectUniqueName": "C:\\Code\\EFCore\\EFCore_Activity0201\\EFCore_Activity0301.csproj",
+      "projectName": "EFCore_Activity0301",
+      "projectPath": "C:\\Code\\EFCore\\EFCore_Activity0201\\EFCore_Activity0301.csproj",
       "packagesPath": "C:\\Users\\fedec\\.nuget\\packages\\",
       "outputPath": "C:\\Code\\EFCore\\EFCore_Activity0201\\obj\\",
       "projectStyle": "PackageReference",

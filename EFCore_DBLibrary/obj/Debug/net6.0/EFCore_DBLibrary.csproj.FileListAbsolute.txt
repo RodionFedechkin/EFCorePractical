@@ -12,3 +12,6 @@ C:\Code\EFCore\EFCore_DBLibrary\obj\Debug\net6.0\refint\EFCore_DBLibrary.dll
 C:\Code\EFCore\EFCore_DBLibrary\obj\Debug\net6.0\EFCore_DBLibrary.pdb
 C:\Code\EFCore\EFCore_DBLibrary\obj\Debug\net6.0\EFCore_DBLibrary.genruntimeconfig.cache
 C:\Code\EFCore\EFCore_DBLibrary\obj\Debug\net6.0\ref\EFCore_DBLibrary.dll
+C:\Code\EFCore\EFCore_DBLibrary\bin\Debug\net6.0\InventoryModels.dll
+C:\Code\EFCore\EFCore_DBLibrary\bin\Debug\net6.0\InventoryModels.pdb
+C:\Code\EFCore\EFCore_DBLibrary\obj\Debug\net6.0\EFCore_DBLibrary.csproj.CopyComplete

@@ -11,21 +11,13 @@ namespace EFCore_Activity0201
 
         static void Main(string[] args)
         {
-            BuildConfiguration();
             BuildOptions();
             ListPeople();
         }
 
-        static void BuildConfiguration()
-        {
-            var builder = new ConfigurationBuilder()
-                .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsettings.json", true, true);
-            _configuration = builder.Build();
-        }
-
         static void BuildOptions()
         {
+            _configuration = ConfigurationBuilderSingleton.ConfigurationRoot;
             _optionBuilder = new DbContextOptionsBuilder<AdventureWorks2017Context>();
             _optionBuilder.UseSqlServer(_configuration.GetConnectionString("AdventureWorks"));
         }
