@@ -15,8 +15,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\EFCore_Activity0201\EFCore_Activity0201.csproj" />
-  </ItemGroup>
-
 </Project>

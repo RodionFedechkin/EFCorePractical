@@ -634,19 +634,6 @@
             "rid": "win"
           }
         }
-      },
-      "EFCore_Activity0201/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.7"
-        },
-        "compile": {
-          "bin/placeholder/EFCore_Activity0201.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EFCore_Activity0201.dll": {}
-        }
       }
     }
   },
@@ -1867,16 +1854,10 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "EFCore_Activity0201/1.0.0": {
-      "type": "project",
-      "path": "../EFCore_Activity0201/EFCore_Activity0201.csproj",
-      "msbuildProject": "../EFCore_Activity0201/EFCore_Activity0201.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "EFCore_Activity0201 >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.7"
@@ -1913,11 +1894,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Code\\EFCore\\EFCore_Activity0201\\EFCore_Activity0201.csproj": {
-              "projectPath": "C:\\Code\\EFCore\\EFCore_Activity0201\\EFCore_Activity0201.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

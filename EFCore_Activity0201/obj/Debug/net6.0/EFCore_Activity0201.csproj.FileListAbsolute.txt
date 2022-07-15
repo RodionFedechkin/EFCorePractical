@@ -56,3 +56,12 @@ C:\Code\EFCore\EFCore_Activity0201\obj\Debug\net6.0\refint\EFCore_Activity0201.d
 C:\Code\EFCore\EFCore_Activity0201\obj\Debug\net6.0\EFCore_Activity0201.pdb
 C:\Code\EFCore\EFCore_Activity0201\obj\Debug\net6.0\EFCore_Activity0201.genruntimeconfig.cache
 C:\Code\EFCore\EFCore_Activity0201\obj\Debug\net6.0\ref\EFCore_Activity0201.dll
+C:\Code\EFCore\EFCore_Activity0201\bin\Debug\net6.0\appsettings.json
+C:\Code\EFCore\EFCore_Activity0201\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Code\EFCore\EFCore_Activity0201\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Code\EFCore\EFCore_Activity0201\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Code\EFCore\EFCore_Activity0201\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Code\EFCore\EFCore_Activity0201\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Code\EFCore\EFCore_Activity0201\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Code\EFCore\EFCore_Activity0201\bin\Debug\net6.0\EFCore_DBLibrary.dll
+C:\Code\EFCore\EFCore_Activity0201\bin\Debug\net6.0\EFCore_DBLibrary.pdb
